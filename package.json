@@ -1,7 +1,6 @@
 {
-  "name": "vercel-otp-backend",
+  "name": "gec-otp-graph",
   "version": "1.0.0",
-  "description": "Minimal OTP backend using GEC Banka college email on Vercel",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,6 +9,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "nodemailer": "^6.9.11"
+    "node-fetch": "^3.3.2"
   }
 }
